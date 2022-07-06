@@ -2,7 +2,8 @@
     Title       : System of managing hotels
     Language    : C++
     Author      : Lakshya Kaviya
-    Date Created: 17-04-2022 
+    Date Created: 19-11-2021
+    Date Last Modified: 21-01-2022
 */
 #include <iostream>
 #include<fstream>
